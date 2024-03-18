@@ -7,6 +7,9 @@ public class Result {
     int SEAM;
     int FM;
     int HCI;
+
+    int hi;
+    
     double getAverageMark()
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
